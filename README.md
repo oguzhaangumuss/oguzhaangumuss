@@ -18,8 +18,4 @@ I'm Oguzhan, currently studying management information systems at Pamukkale Univ
 I've stuied on Html, JavaScript, Css, Boostrap, Python, C#
 - 🌱 I’m currently learning Swift
 
-  https://github-readme-stats.vercel.app/api?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats
-  https://github-readme-stats.vercel.app/api?username=oguzhaangumuss&show_icons=true
-  [![Anurag's GitHub sta(https://github-readme-stats.vercel.app/api?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats)
