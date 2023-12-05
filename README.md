@@ -19,6 +19,7 @@ I've stuied on Html, JavaScript, Css, Boostrap, Python, C#
 - 🌱 I’m currently learning Swift
 
 <b>Social Accounts<b>
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oğuzhan-gümüş-755739197/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats)
