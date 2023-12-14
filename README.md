@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Oguzhan, currently studying management information systems at Pamukkale University where I'll be graduated in 2024.
-I've stuied on Html, JavaScript, Css, Boostrap, Python, C#
+I've stuied on Html, JavaScript, Css, Boostrap, C#
 - 🌱 I’m currently learning Swift
 
 
