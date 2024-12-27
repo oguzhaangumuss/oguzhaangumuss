@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Oguzhan, currently studying management information systems at Pamukkale University where I'll be graduated in 2024.
-I've stuied on TypeScirpt, C#, Python, Solidity
-- 🌱 I’m currently learning Swift and SwiftUI 
+I'm Oguzhan, a blockchain dev.
+Have experience with C#, Swift, Next.js, Python, Solidity. 
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats)
