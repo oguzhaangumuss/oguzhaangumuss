@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Oguzhan, a full-stack & blockchain dev.
+I'm Oguzhan, a full-stack & blockchain dev. 
 Have experience with C#, Swift, Next.js, Python, Solidity. 
  
 
