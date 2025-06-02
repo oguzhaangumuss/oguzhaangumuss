@@ -1,19 +1,19 @@
-# Full-Stack Developer | Blockchain & Web3 | Automation & AI Enthusiast
+# Full-Stack & Blockchain Developer | Web3 Architect & AI-Powered Systems Builder
 
-**"Breaking boundaries with code to build innovative solutions."**
+**"Transforming ideas into scalable, decentralized, and intelligent products."**
 
-Hi there! I'm **Oğuzhan Gümüş**, a passionate developer who thrives on solving complex problems with technology. I specialize in **Web, Mobile, and Desktop development**, **Blockchain & Web3 solutions**, and **Automation systems**. I adapt quickly to new technologies and develop efficient, scalable, and high-performance software across various platforms.
+Hi, I’m **Oğuzhan Gümüş**, a full-stack and blockchain developer with a focus on building robust, scalable, and impactful digital solutions. I specialize in **Web3 infrastructure**, **AI-integrated systems**, and **automation tools** designed for performance and community engagement.
 
-## 🛠️ Technical Skills  
-- **Full-Stack Development:** Scalable and performance-driven Web, Mobile, and Desktop applications  
-- **Blockchain & Web3:** NFT Marketplaces, NFT Generators, Smart Contracts, Discord/TG Web3 Integrations, and dApps  
-- **Automation & AI:** Telegram & Discord Bots, Excel Automation, Email Systems, Workflow Optimization, and AI-powered tools  
-- **API & Integrations:** Building seamless connections between different platforms  
+With a strong background in frontend/backend development, smart contract engineering, and product strategy, I create innovative tools that power decentralized applications, enhance user interaction, and drive ecosystem growth.
 
-## 💡 Featured Projects  
-✅ **Web3-based NFT marketplaces** and user-friendly NFT generators  
-✅ **Custom automation systems** that accelerate business processes by 10x  
-✅ **Decentralized applications (dApps)** with a focus on user experience  
+---
+
+## 🛠️ Technical Skill Set  
+- **Full-Stack Development:** React, Next.js (13+), TypeScript, Node.js, Supabase, Firebase, PostgreSQL, Redis  
+- **Blockchain & Web3:** Solidity, Hardhat, Ethers.js, dApps, NFT Marketplaces, Merkle Tree Whitelisting, Cross-chain Integrations  
+- **AI & Automation:** Workflow Optimization, Custom Discord/TG Bots, AI-enhanced dashboards, Data Aggregation Tools  
+- **Infrastructure & DevOps:** Docker, CI/CD (GitHub Actions), AWS S3, Vercel, Nginx  
+- **Mobile Development:** Swift, SwiftUI
 
 
 ## 📬 Get in Touch  
