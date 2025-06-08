@@ -2,9 +2,24 @@
 
 **"Transforming ideas into scalable, decentralized, and intelligent products."**
 
-Hi, I’m **Oğuzhan Gümüş**, a full-stack and blockchain developer with a focus on building robust, scalable, and impactful digital solutions. I specialize in **Web3 infrastructure**, **AI-integrated systems**, and **automation tools** designed for performance and community engagement.
+Hey there i'm Oguzhan co-founder of SailorsWeb3. I started my professional journey as a full-stack developer, building web and mobile applications with a strong focus on clean architecture and scalable systems. Over time, my interest shifted toward blockchain technologies, and I began developing smart contracts, websites and frontend interfaces for blockchain projects. This transition opened the door to a broader role in the Web3 ecosystem.
 
-With a strong background in frontend/backend development, smart contract engineering, and product strategy, I create innovative tools that power decentralized applications, enhance user interaction, and drive ecosystem growth.
+Today, I work full-time in blockchain, combining my technical background with project and community management, strategic marketing, and product development. I’m deeply involved in every stage of Web3 project execution — from writing smart contracts and building user interfaces to launching and managing communities, partnerships, and go-to-market strategies.
+
+My mission is to help shape the future of decentralized technology by creating meaningful and accessible blockchain-based solutions. I thrive in fast-paced environments where innovation, impact, and collaboration drive success.
+
+Core Skills:
+ • Web3 & Blockchain Project Management
+ • Full-Stack Development (Web & Mobile)
+ • Smart Contract Integration
+ • Community Building & Operations
+ • Strategic Marketing & Growth
+ • NFT Platforms & Tokenized Economies
+ • Product Strategy & User-Centric Design
+ • Sustainable Web3 Innovation
+
+Current Focus:
+Leading and scaling blockchain-based platforms, NFT marketplaces, and Web3 applications — with an end-to-end approach that merges development, product design, marketing, and community engagement to deliver real-world value.
 
 ---
 
