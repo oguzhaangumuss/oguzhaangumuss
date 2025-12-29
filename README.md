@@ -28,7 +28,7 @@ Leading and scaling blockchain-based platforms, NFT marketplaces, and Web3 appli
 - **Blockchain & Web3:** Solidity, Hardhat, Ethers.js, dApps, NFT Marketplaces, Merkle Tree Whitelisting, Cross-chain Integrations  
 - **AI & Automation:** Workflow Optimization, Custom Discord/TG Bots, AI-enhanced dashboards, Data Aggregation Tools  
 - **Infrastructure & DevOps:** Docker, CI/CD (GitHub Actions), AWS S3, Vercel, Nginx  
-- **Mobile Development:** Swift, SwiftUI
+- **Mobile Development:** Swift, SwiftUI 
 
 
 ## 📬 Get in Touch  
