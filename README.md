@@ -1,42 +1,40 @@
-# Full-Stack & Blockchain Developer | Web3 Architect & AI-Powered Systems Builder
+# Oğuzhan Gümüş
 
-**"Transforming ideas into scalable, decentralized, and intelligent products."**
+Full-stack and blockchain engineer, working remotely from Türkiye.
 
-Hey there i'm Oguzhan co-founder of SailorsWeb3. I started my professional journey as a full-stack developer, building web and mobile applications with a strong focus on clean architecture and scalable systems. Over time, my interest shifted toward blockchain technologies, and I began developing smart contracts, websites and frontend interfaces for blockchain projects. This transition opened the door to a broader role in the Web3 ecosystem.
+Most of my time goes to the part of a system that has to be right when money moves: escrow contracts, oracles, and the authority layer that decides whether an autonomous agent is allowed to spend at all. Before that, five years of production SaaS — multi-tenant platforms, payments, and the unglamorous database constraints that keep them honest.
 
-Today, I work full-time in blockchain, combining my technical background with project and community management, strategic marketing, and product development. I’m deeply involved in every stage of Web3 project execution — from writing smart contracts and building user interfaces to launching and managing communities, partnerships, and go-to-market strategies.
+Founder of [VogLabs](https://voglabs.tech), an independent engineering studio. Hackathon wins across TON, Sei, Algorand and NEAR.
 
-My mission is to help shape the future of decentralized technology by creating meaningful and accessible blockchain-based solutions. I thrive in fast-paced environments where innovation, impact, and collaboration drive success.
+## Selected work
 
-Core Skills:
- • Web3 & Blockchain Project Management
- • Full-Stack Development (Web & Mobile)
- • Smart Contract Integration
- • Community Building & Operations
- • Strategic Marketing & Growth
- • NFT Platforms & Tokenized Economies
- • Product Strategy & User-Centric Design
- • Sustainable Web3 Innovation
+| Project | What it does |
+|---|---|
+| **[Kiln](https://kiln-desk.vercel.app)** · [source](https://github.com/oguzhaangumuss/kiln-desk) | Hire desk for ERC-8004 agents on BNB Smart Chain. A hire stays blocked until a sample call against the agent's A2A/MCP catalog is attested on-chain; spend is capped by a revocable envelope contract; settlement over x402 |
+| [Tongeist](https://github.com/oguzhaangumuss/Tongeist) | License-verification oracle on TON with a Telegram bot front end. **Top 10 — The Open Hack, TON Europe Hub** |
+| [SEI MCP Studio](https://dorahacks.io/build/31730) | No-code builder exposing 15+ Sei on-chain tools over the Model Context Protocol. **MCP Student Bounty — ai/accelathon on Sei** |
+| [Apollon](https://apollon-nu.vercel.app) | Zero-knowledge price-prediction oracle for Algorand (Circom, SnarkJS) over an ML ensemble. **1st place — AlgoHack Istanbul** |
+| [Nearacles](https://github.com/oguzhaangumuss/nearacles-protocol) | Intent-based oracle where AI solvers compete to answer queries, secured by staking, slashing and adversarial validation. **NEAR Protocol Rewards** |
+| [Zer0Gravis](https://github.com/oguzhaangumuss/Zer0Gravis) | Decentralized oracle data aggregation and consensus on 0G |
+| [Ton0racle](https://github.com/oguzhaangumuss/Ton0racle) | Oracle data aggregation platform for the TON ecosystem |
 
-Current Focus:
-Leading and scaling blockchain-based platforms, NFT marketplaces, and Web3 applications — with an end-to-end approach that merges development, product design, marketing, and community engagement to deliver real-world value.
+Products I run: **[Yanımda.ai](https://hepyanimda.xyz)** — multi-tenant booking SaaS with a WhatsApp AI receptionist, live in production, 520+ tests · **[Repply](https://repply.xyz)** — RAG pipeline over 458K+ indexed tweets
 
----
+## Stack
 
-## 🛠️ Technical Skill Set  
-- **Full-Stack Development:** React, Next.js (13+), TypeScript, Node.js, Supabase, Firebase, PostgreSQL, Redis  
-- **Blockchain & Web3:** Solidity, Hardhat, Ethers.js, dApps, NFT Marketplaces, Merkle Tree Whitelisting, Cross-chain Integrations  
-- **AI & Automation:** Workflow Optimization, Custom Discord/TG Bots, AI-enhanced dashboards, Data Aggregation Tools  
-- **Infrastructure & DevOps:** Docker, CI/CD (GitHub Actions), AWS S3, Vercel, Nginx  
-- **Mobile Development:** Swift, SwiftUI 
+**Languages** TypeScript, Solidity, Python, SQL
+**Chain** Foundry, viem, wagmi, OpenZeppelin, EIP-712, ERC-20/721, ERC-8004, x402 — Base, BNB Chain, TON, Algorand, NEAR, 0G
+**Backend** Node.js, NestJS, PostgreSQL, Redis, REST, Zod
+**AI** LLM agents, RAG, MCP, LangChain, Vercel AI SDK, vector search
+**Web** Next.js, React, Tailwind
+**Ops** Docker, GitHub Actions, Vercel, Railway, Supabase
 
+## Elsewhere
 
-## 📬 Get in Touch  
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oğuzhan-gümüş-755739197/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ozziecrypt) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhaangumuss)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://voglabs.tech"><img src="https://cdn.simpleicons.org/googlechrome/8b949e" width="18" height="18" alt="Website" align="top"></a>&nbsp;&nbsp;[voglabs.tech](https://voglabs.tech)&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/oguzhaangumuss"><img src="https://cdn.simpleicons.org/linkedin/8b949e" width="18" height="18" alt="LinkedIn" align="top"></a>&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/oguzhaangumuss)&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/ozziecrypt"><img src="https://cdn.simpleicons.org/telegram/8b949e" width="18" height="18" alt="Telegram" align="top"></a>&nbsp;&nbsp;[Telegram](https://t.me/ozziecrypt)&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/web3ozzie"><img src="https://cdn.simpleicons.org/x/8b949e" width="18" height="18" alt="X" align="top"></a>&nbsp;&nbsp;[X](https://x.com/web3ozzie)
 
 
 
